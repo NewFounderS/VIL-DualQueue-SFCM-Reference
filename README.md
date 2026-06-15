@@ -7,7 +7,6 @@ This repository provides the model and training implementation of a VIL radar-ec
 - encoder, spatiotemporal predictor, and decoder network layers;
 - observation-queue channel attention and future-queue temporal attention;
 - adaptive weak-echo masking;
-- native-filled split dual-queue construction and stepwise filling;
 - Spatiotemporal Fusion Calibration Module;
 - Dual-Supervised Echo-Structure Constraint Loss;
 - complete model forward propagation;
