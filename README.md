@@ -27,14 +27,6 @@ Range:  [0, 1]
 - Dataset split: `80% / 10% / 10%`
 - Maximum epochs: `150`
 - Optimizer: AdamW
-- Initial and minimum learning rates: `1e-4` and `1e-6`
-- Scheduler: CosineAnnealingLR
-- Weight decay: `1e-5`
-- Batch size: `1`
-- Gradient accumulation steps: `8`
-- Teacher-forcing schedule: `1.00` to `0.50` over the first `30` epochs
-- Weak-echo threshold and masking probability: `0.15` and `0.20`
-- Strong-echo threshold: `0.30`
 
 Additional model and loss parameters are listed in `config.py`.
 
