@@ -11,7 +11,6 @@ This repository provides the model and training implementation of a VIL radar-ec
 - Spatiotemporal Fusion Calibration Module;
 - Dual-Supervised Echo-Structure Constraint Loss;
 - complete model forward propagation;
-- complete training loop and essential experimental configuration.
 
 ## Tensor Contract
 
